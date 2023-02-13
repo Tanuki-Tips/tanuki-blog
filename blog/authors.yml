@@ -1,0 +1,51 @@
+endi:
+  name: Endilie Yacop Sucipto
+  title: Maintainer of Docusaurus
+  url: https://github.com/endiliey
+  image_url: https://github.com/endiliey.png
+
+yangshun:
+  name: Yangshun Tay
+  title: Front End Engineer @ Facebook
+  url: https://github.com/yangshun
+  image_url: https://github.com/yangshun.png
+
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
+
+antoine:
+  name: Antoine Smet
+  title: Developer - AI & prototype lover
+  url: https://github.com/AntoineSmet
+  image_url: https://avatars.githubusercontent.com/u/102588958?v=4
+
+lloyd:
+  name: Lloyd Colart
+  title: Developer - Devops Enthusiast - Creator
+  url: https://github.com/Lloydcol
+  image_url: https://avatars.githubusercontent.com/u/55253106?s=400&u=4c6e038627560fea1c1a2ece11a335b59a6b1540&v=4
+
+
+# Exemples of header
+# ---
+# slug: welcome
+# title: Welcome
+# authors: [slorber, yangshun]
+# tags: [facebook, hello, docusaurus]
+# ---
+
+# ---
+# slug: first-blog-post
+# title: First Blog Post
+# authors:
+#   name: Gao Wei
+#   title: Docusaurus Core Team
+#   url: https://github.com/wgao19
+#   image_url: https://github.com/wgao19.png
+# tags: [hola, docusaurus]
+# ---
+
+
