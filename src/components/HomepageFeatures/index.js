@@ -6,29 +6,29 @@ const FeatureList = [
   {
     title: 'Un blog',
     Svg: require('@site/static/img/rss.svg').default,
-    // description: (
-    //   <>
-    //     Texte à venir
-    //   </>
-    // ),
+    description: (
+      <>
+        
+      </>
+    ),
   },
   {
     title: 'Une chaine Youtube',
     Svg: require('@site/static/img/youtube.svg').default,
-    // description: (
-    //   <>
-    //     Texte à venir
-    //   </>
-    // ),
+    description: (
+      <>
+        
+      </>
+    ),
   },
   {
     title: 'Une communauté',
     Svg: require('@site/static/img/discord.svg').default,
-    // description: (
-    //   <>
-    //     Texte à venir
-    //   </>
-    // ),
+    description: (
+      <>
+      
+      </>
+    ),
   },
 ];
 
