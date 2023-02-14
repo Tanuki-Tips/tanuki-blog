@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Tanuki - Le Blog Blog</title>
-        <link>https://tanuki-tips.github.io/tanuki-blog/blog</link>
+        <link>https://www.tanukitips.com/blog</link>
         <description>Tanuki - Le Blog Blog</description>
         <lastBuildDate>Tue, 14 Feb 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>fr</language>
         <item>
             <title><![CDATA[En construction 🛑🚧]]></title>
-            <link>https://tanuki-tips.github.io/tanuki-blog/blog/firstcommit</link>
-            <guid>https://tanuki-tips.github.io/tanuki-blog/blog/firstcommit</guid>
+            <link>https://www.tanukitips.com/blog/firstcommit</link>
+            <guid>https://www.tanukitips.com/blog/firstcommit</guid>
             <pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[https://images.unsplash.com/photo-1536895058696-a69b1c7ba34f?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb]]></description>
             <content:encoded><![CDATA[<p><img loading="lazy" src="https://images.unsplash.com/photo-1536895058696-a69b1c7ba34f?ixlib=rb-4.0.3&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb" alt="https://images.unsplash.com/photo-1536895058696-a69b1c7ba34f?ixlib=rb-4.0.3&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb" class="img_ev3q"></p>]]></content:encoded>
