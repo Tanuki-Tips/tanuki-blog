@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/rss.svg').default,
     description: (
       <>
-        Ceci est la description du blog assez accrocheuse
+        
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/youtube.svg').default,
     description: (
       <>
-        Ceci est la description de la chaine bla bla bla bla bla.
+        
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/discord.svg').default,
     description: (
       <>
-        Bla bla l'entraide, bla bla les pro et les débutant, bla bla la confiance
+      
       </>
     ),
   },
