@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.tanukitips.com/blog</id>
+    <id>https://tanuki-tips.github.io/tanuki-blog/blog</id>
     <title>Tanuki - Le Blog Blog</title>
     <updated>2023-02-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.tanukitips.com/blog"/>
+    <link rel="alternate" href="https://tanuki-tips.github.io/tanuki-blog/blog"/>
     <subtitle>Tanuki - Le Blog Blog</subtitle>
-    <icon>https://www.tanukitips.com/img/favicon-96x96.png</icon>
+    <icon>https://tanuki-tips.github.io/tanuki-blog/img/favicon-96x96.png</icon>
     <entry>
         <title type="html"><![CDATA[En construction 🛑🚧]]></title>
-        <id>https://www.tanukitips.com/blog/firstcommit</id>
-        <link href="https://www.tanukitips.com/blog/firstcommit"/>
+        <id>https://tanuki-tips.github.io/tanuki-blog/blog/firstcommit</id>
+        <link href="https://tanuki-tips.github.io/tanuki-blog/blog/firstcommit"/>
         <updated>2023-02-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[https://images.unsplash.com/photo-1536895058696-a69b1c7ba34f?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb]]></summary>
         <content type="html"><![CDATA[<p><img loading="lazy" src="https://images.unsplash.com/photo-1536895058696-a69b1c7ba34f?ixlib=rb-4.0.3&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb" alt="https://images.unsplash.com/photo-1536895058696-a69b1c7ba34f?ixlib=rb-4.0.3&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb" class="img_ev3q"></p>]]></content>
