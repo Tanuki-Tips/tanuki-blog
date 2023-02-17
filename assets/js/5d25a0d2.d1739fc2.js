@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktanuki_blog=self.webpackChunktanuki_blog||[]).push([[425],{1272:a=>{a.exports=JSON.parse('{"label":"Microsoft","permalink":"/blog/tags/microsoft","allTagsPath":"/blog/tags","count":1}')}}]);
