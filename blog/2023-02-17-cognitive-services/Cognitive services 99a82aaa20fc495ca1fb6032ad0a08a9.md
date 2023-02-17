@@ -1,11 +1,9 @@
- ---
- slug: cognitive-services-pt1
- title: Cognitive Services
- authors: [antoine]
- tags: [Cogntive-Service, Microsoft, Azure, AI, Service]
- ---
-
-
+---
+slug: cognitive-services-pt1
+title: Cognitive Services pt1 🧠
+authors: [antoine]
+tags: [Cogntive-Service, Microsoft, Azure, AI, Service]
+---
 
 # Cognitive services
 
