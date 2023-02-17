@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktanuki_blog=self.webpackChunktanuki_blog||[]).push([[616],{978:l=>{l.exports=JSON.parse('{"label":"workflows","permalink":"/blog/tags/workflows","allTagsPath":"/blog/tags","count":1}')}}]);

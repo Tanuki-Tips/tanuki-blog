@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktanuki_blog=self.webpackChunktanuki_blog||[]).push([[535],{5641:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Cognitive Services pt1 \ud83e\udde0","permalink":"/blog/cognitive-services-pt1"},{"title":"En construction \ud83d\uded1\ud83d\udea7","permalink":"/blog/firstcommit"}]}')}}]);
