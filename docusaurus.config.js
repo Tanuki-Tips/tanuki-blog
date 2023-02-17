@@ -10,10 +10,12 @@ const config = {
   favicon: 'img/favicon-96x96.png',
 
   // Set the production url of your site here
-  url: 'https://tanuki-tips.github.io',
+  //url: 'https://tanuki-tips.github.io',
+  url: 'http://www.tanukitips.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/tanuki-blog/',
+  //baseUrl: '/tanuki-blog/',
+  baseUrl: '/',
   
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
