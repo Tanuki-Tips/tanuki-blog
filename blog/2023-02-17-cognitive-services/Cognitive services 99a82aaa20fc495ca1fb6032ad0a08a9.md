@@ -1,4 +1,3 @@
-
 ---
 slug: cognitive-services-pt1
 title: Cognitive Services pt1 🧠
