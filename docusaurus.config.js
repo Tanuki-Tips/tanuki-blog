@@ -83,7 +83,7 @@ const config = {
             href: 'https://github.com/Tanuki-Tips',
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Tanuki - Le BLog, Built with Docusaurus with love.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Tanuki - Le BLog, avec Docusaurus et beaucoup d'amour.`,
       },
       prism: {
         theme: lightCodeTheme,

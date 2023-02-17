@@ -23,7 +23,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      description="Description will go into a meta tag in <head />">
+      description="Le blog tech de la Tanuki Corp. <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
